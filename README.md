@@ -1,8 +1,18 @@
 # Projet-BI
 Project BI / DATA Warehouse / Projet Master 2020
 
+
 But de projet:
 Mise en place une application web sous JEE pour faciliter l’accès auxr apports générer au niveau du serveur BI.
+
+Les conceptes abordés dans ce projet:
+
+- Alimenter l'entrepot de données en utilisant l'outil PENTAHO DATA INTEGRATION "PDI"+ MySQLworkbensh
+- Pentaho Bi pour le reporting.
+- CSS/HTML/Bootsrap pour la création des page JSP
+- jEE/SQL/Mdx 
+
+Screenshot projet:
 
 Page Authentification:
 
@@ -19,4 +29,6 @@ Page Gestion des utilisateurs:
 Page Liste des Activities
 
 <img width="421" alt="LISTE DES ACTIVITEES" src="https://user-images.githubusercontent.com/116309523/197203953-480e0f49-6873-4e01-92eb-d8cf47cb523d.PNG">
+
+
 
