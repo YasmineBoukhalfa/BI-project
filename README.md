@@ -2,7 +2,7 @@
 Project BI / DATA Warehouse / Projet Master 2020
 
 But de projet:
-Mise en place une application web sous JAVAEE pour faciliter l’accès auxr apports générer au niveau du serveur BI.
+Mise en place une application web sous JEE pour faciliter l’accès auxr apports générer au niveau du serveur BI.
 
 Page Authentification:
 
