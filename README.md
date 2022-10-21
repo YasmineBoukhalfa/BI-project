@@ -1,6 +1,9 @@
 # Projet-BI
 Project BI / DATA Warehouse / Projet Master 2020
 
+But de projet:
+Mise en place une application web sous JAVAEE pour faciliter l’accès auxr apports générer au niveau du serveur BI.
+
 Page Authentification:
 
 <img width="533" alt="authentification" src="https://user-images.githubusercontent.com/116309523/197195035-b1645bfd-2f8f-431c-a6b5-9a27d4620a5a.PNG">
