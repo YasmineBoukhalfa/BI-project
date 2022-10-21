@@ -1,0 +1,14 @@
+.bg{background-size: cover ; background-image: url('images/yasmin.jpg');}
+.form-container{border:0px solid;padding: 50px 60px; margin-top: 20%;-webkit-box-shadow: -7px 3px 107px -3px rgba(0,0,0,0.75);
+-moz-box-shadow: -7px 3px 107px -3px rgba(0,0,0,0.75);
+box-shadow: -7px 3px 107px -3px rgba(0,0,0,0.75);}
+
+.bm{ 
+background: rgba(255,255,255,1);
+background: -moz-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 58%, rgba(237,237,237,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,255,255,1)), color-stop(0%, rgba(255,255,255,1)), color-stop(58%, rgba(246,246,246,1)), color-stop(100%, rgba(237,237,237,1)));
+background: -webkit-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 58%, rgba(237,237,237,1) 100%);
+background: -o-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 58%, rgba(237,237,237,1) 100%);
+background: -ms-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 58%, rgba(237,237,237,1) 100%);
+background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 58%, rgba(237,237,237,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed', GradientType=1 );}
