@@ -28,7 +28,7 @@ Page Gestion des utilisateurs:
 
 Supprimer, Modifier, Ajouter un nouvel utilisateur,
 
-<img width="422" alt="GESTION DES UTILISATEURS" src="https://user-images.githubusercontent.com/116309523/197203509-b3b908b6-0eab-4f9e-96d5-f2dc78f518df.PNG">
+![GestionUtilisateur](https://user-images.githubusercontent.com/116309523/197214502-6a5bb106-646a-4055-a66d-634f5ca6440b.jpg)
 
 Page Liste des Activities
 
