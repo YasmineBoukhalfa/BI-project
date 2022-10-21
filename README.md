@@ -1,5 +1,5 @@
-# BI-project
-Project BI / DATA Warehouse / My Master project
+# Projet-BI
+Project BI / DATA Warehouse / Projet Master 2020
 
 Page Authentification:
 
