@@ -9,7 +9,7 @@ Les conceptes abordés dans ce projet:
 
 - Alimenter l'entrepot de données en utilisant l'outil PENTAHO DATA INTEGRATION "PDI"+ MySQLworkbensh
 - Pentaho Bi pour le reporting.
-- CSS/HTML/Bootsrap pour la création des page JSP
+- CSS/HTML/Bootstrap pour la création des page JSP
 - JEE/SQL/Mdx 
 
 Screenshot projet:
