@@ -12,3 +12,11 @@ Dashbord:
 
 <img width="363" alt="Dashbord" src="https://user-images.githubusercontent.com/116309523/197195793-6fec8225-ada4-41b6-93f3-56edb2ad4dd3.PNG">
 
+Page Gestion des utilisateurs:
+
+<img width="422" alt="GESTION DES UTILISATEURS" src="https://user-images.githubusercontent.com/116309523/197203509-b3b908b6-0eab-4f9e-96d5-f2dc78f518df.PNG">
+
+Page Liste des Activities
+
+<img width="421" alt="LISTE DES ACTIVITEES" src="https://user-images.githubusercontent.com/116309523/197203953-480e0f49-6873-4e01-92eb-d8cf47cb523d.PNG">
+
