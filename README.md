@@ -20,9 +20,13 @@ Page Authentification:
 
 Dashbord:
 
+Consulter + Exporter le tableau de bord
+
 <img width="363" alt="Dashbord" src="https://user-images.githubusercontent.com/116309523/197195793-6fec8225-ada4-41b6-93f3-56edb2ad4dd3.PNG">
 
 Page Gestion des utilisateurs:
+
+Supprimer, Modifier, Ajouter un nouvel utilisateur,
 
 <img width="422" alt="GESTION DES UTILISATEURS" src="https://user-images.githubusercontent.com/116309523/197203509-b3b908b6-0eab-4f9e-96d5-f2dc78f518df.PNG">
 
